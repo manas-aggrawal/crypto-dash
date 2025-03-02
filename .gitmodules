@@ -1,0 +1,3 @@
+[submodule "crypto-dash-docs"]
+	path = crypto-dash-docs
+	url = https://github.com/manas-aggrawal/crypto-dash-docs.git
